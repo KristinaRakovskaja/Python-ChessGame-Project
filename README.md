@@ -51,19 +51,30 @@ python chessgame.py
 ### 💡 Example Usage
 
 ```bash
-Enter the white piece (pawn/rook) and its position: pawn d4
-White piece added: pawn at d4
+Welcome to a chess question game. This program will answer if the placed white chess piece     will be able to take any of the placed black pieces. For this version of the program, you can choose to     play with either a pawn or a rook.
 
-Enter a black piece and its position: pawn c5
-Black piece added: pawn at c5
+Enter your figure (pawn or rook) and its square (e.g. c6): pawn c6
+Successfully added white pawn at c6
 
-Enter a black piece and its position: queen d6
-Black piece added: queen at d6
+Enter coordinates of 1 to 16 black pieces (e.g. pawn a2), or enter 'done' when finished: pawn b7
+Successfully added black pawn at b7
 
-Enter a black piece and its position: done
+Enter coordinates of 1 to 16 black pieces (e.g. pawn a2), or enter 'done' when finished: king d5
+Successfully added black king at d5
 
-Capturable black pieces:
-- pawn at c5
+Enter coordinates of 1 to 16 black pieces (e.g. pawn a2), or enter 'done' when finished: done
+All figures successfully placed!
+
+[' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ']
+[' ', 'B', ' ', ' ', ' ', ' ', ' ', ' ']
+[' ', ' ', 'P', ' ', ' ', ' ', ' ', ' ']
+[' ', ' ', ' ', 'B', ' ', ' ', ' ', ' ']
+[' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ']
+[' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ']
+[' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ']
+[' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ']
+
+White piece can take pawn b7
 ```
 
 ## 👩‍💻 Contributor
