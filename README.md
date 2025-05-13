@@ -46,8 +46,9 @@ This is a Python program that answers a simple question:
 
 ```bash
 python chessgame.py
+```
 
-##💡 Example Usage
+## 💡 Example Usage
 
 ```bash
 Enter the white piece (pawn/rook) and its position: pawn d4
@@ -63,7 +64,8 @@ Enter a black piece and its position: done
 
 Capturable black pieces:
 - pawn at c5
+```
 
 ## 👩‍💻 Contributor
 This project was created by Kristina Rakovskaja.
-📬 Connect with me on LinkedIn
+📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/kristinarakovskaja/)
