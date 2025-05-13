@@ -48,7 +48,7 @@ This is a Python program that answers a simple question:
 python chessgame.py
 ```
 
-## 💡 Example Usage
+### 💡 Example Usage
 
 ```bash
 Enter the white piece (pawn/rook) and its position: pawn d4
